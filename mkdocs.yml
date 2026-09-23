@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 # =============================================================================
-# Site Information — replace these placeholders per project
+# Site Information
 # =============================================================================
 
 site_name: Time to First Byte
@@ -32,6 +32,7 @@ extra:
     - Where exploration meets precision.
     - Where the untamed meets the engineered.
   # Counter.dev analytics (omit counter_dev_id to disable).
+  # Create a site at https://counter.dev and set a per-project id below.
   counter_dev_id: ef410665-76d4-43fe-9e91-53f26ed1004b
   counter_dev_utcoffset: 0
   social_image: assets/images/the-lupaxa-project-social-card.png
