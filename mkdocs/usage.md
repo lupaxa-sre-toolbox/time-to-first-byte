@@ -3,7 +3,7 @@
 Use `time-to-first-byte` or its `ttfb` alias. Both commands invoke the same
 entry point.
 
-## CLI flags
+## CLI Flags
 
 | Flag              | Default               | Description                          |
 | :---------------- | :-------------------- | :----------------------------------- |

@@ -1,6 +1,6 @@
 # Reference
 
-## CLI arguments
+## CLI Arguments
 
 | Flag              | Default               | Description                                |
 | :---------------- | :-------------------- | :----------------------------------------- |
@@ -17,7 +17,7 @@ The URL must use HTTP or HTTPS. `--timeout` must be greater than `0`, and
 The timeout applies to socket operations after address resolution. DNS uses the
 system resolver and is not bounded by `--timeout`.
 
-## Exit codes
+## Exit Codes
 
 | Code | When                                                                |
 | :--- | :------------------------------------------------------------------ |

@@ -1,4 +1,4 @@
-# Getting started
+# Getting Started
 
 ## Requirements
 
@@ -13,7 +13,7 @@ pip install lupaxa-time-to-first-byte
 ttfb --help
 ```
 
-## First run
+## First Run
 
 ```bash
 ttfb --url https://example.com
@@ -29,7 +29,7 @@ Module entry point:
 python -m lupaxa.time_to_first_byte --version
 ```
 
-### From source (development)
+### From Source (Development)
 
 ```bash
 make init
@@ -37,7 +37,7 @@ make python-install-dev
 time-to-first-byte --version
 ```
 
-## Makefile helpers
+## Makefile Helpers
 
 ```bash
 make init                 # clone makefile-skills into .makefiles/

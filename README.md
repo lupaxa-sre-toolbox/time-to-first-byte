@@ -4,15 +4,9 @@
   </a>
 </p>
 
-<h1 align="center">time-to-first-byte</h1>
+<h1 align="center">Time to First Byte</h1>
 
 Measure HTTP time to first byte and repeat until interrupted.
-
-<p align="center">
-  <a href="https://time-to-first-byte.thelupaxaproject.org/">Documentation</a>
-  ·
-  <a href="https://github.com/lupaxa-sre-toolbox/time-to-first-byte">GitHub</a>
-</p>
 
 ## Install
 
@@ -54,6 +48,13 @@ make python-install-dev
 make python-check
 make mkdocs-serve
 ```
+
+## Documentation
+
+The published guide is at
+<https://time-to-first-byte.thelupaxaproject.org/>.
+
+Site Markdown lives in `mkdocs/`.
 
 <a href="https://github.com/the-lupaxa-project">
     <img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/components/footer-for-child-orgs.svg" alt="The Lupaxa Project Footer" width="100%" />

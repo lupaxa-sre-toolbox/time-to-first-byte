@@ -1,6 +1,6 @@
 # Examples
 
-## One URL until Ctrl-C
+## One URL Until Ctrl-C
 
 ```bash
 ttfb --url https://example.com
@@ -8,7 +8,7 @@ ttfb --url https://example.com
 
 The command samples every second. Press Ctrl-C to print the summary and exit.
 
-## Five samples
+## Five Samples
 
 ```bash
 time-to-first-byte --url https://example.com --count 5
@@ -16,7 +16,7 @@ time-to-first-byte --url https://example.com --count 5
 
 The process exits `0` when all five samples pass or `1` when any sample fails.
 
-## Back-to-back samples
+## Back-to-Back Samples
 
 ```bash
 ttfb --url https://example.com --delay 0 --count 10
